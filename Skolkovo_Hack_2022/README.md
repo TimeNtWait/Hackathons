@@ -1,4 +1,6 @@
 # Skolkovo Hack 2022
+4 место из 63 команд
+
 Трек: "Разработка модели ранжирования соответствия пула кандидатов предлагаемой вакансии» от FriendWork"
 
 https://codenrock.com/contests/skolkovo-hack-2022#/
