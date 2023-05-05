@@ -12,7 +12,7 @@ https://leaders2022.innoagency.ru/
 - Стек: Tensorflow, NLTK, sklearn, regexp
 - Git: [Hack_Skolkovo_2022](../../../Hack_Skolkovo_2022)
 ***
-### [Хакатон Avanpost Challenge](../../../Hack_Avanpost_2022) (финалисты)
+### [Хакатон Avanpost Challenge 2022](../../../Hack_Avanpost_2022) (финалисты)
 - Link: https://avanpostchallenge.ru/
 - Трек: "Автоматизация дообучения нейронной сети (ML/AI)"
 - Стек: PyTorch, GoogleImageSearch, FastAPI, HTML, JavaScript  
