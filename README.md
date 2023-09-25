@@ -2,14 +2,19 @@
 
 ***
 ### [Цифровой прорыв. Всероссийский хакатон 2023](../../../Hack_AI_Samolet_2023) (победитель - 1 место)
-- Link: https://hacks-ai.ru/hackathons.html?eventId=969091 
+- Link: [https://hacks-ai.ru/hackathons.html?eventId=969091](https://hacks-ai.ru/hackathons.html?eventId=969091) 
 - Case: Модель склонности клиента к приобретению машиноместа. Компания "Самолет". 
 - Git: [Hack_AI_Samolet_2023](../../../Hack_AI_Samolet_2023) 
 
+***
+### [Цифровой прорыв. Окружной хакатон ДВФО 2023](../../../Hack_AI_RZHD_2023) (5 место)
+- Link: [https://hacks-ai.ru/hackathons.html?eventId=969091](https://hacks-ai.ru/hackathons.html?eventId=969080) 
+- Case: Сервис по анализу видеопотока и выявлению людей или посторонних предметов на ЖД путях
+- Git: [Hack_AI_Samolet_2023](../../../Hack_AI_RZHD_2023) 
 
 ***
-### [Цифровой прорыв. Окружной хакатон УФО](../../../Hack_AI_MosStroy_2023) (6 место)
-- Link: https://hacks-ai.ru/hackathons.html?eventId=969074 
+### [Цифровой прорыв. Окружной хакатон УФО 2023](../../../Hack_AI_MosStroy_2023) (6 место)
+- Link: [https://hacks-ai.ru/hackathons.html?eventId=969074](https://hacks-ai.ru/hackathons.html?eventId=969074) 
 - Case: Департамент строительства г.Москвы: "Разработка системы для повышения эффективности управления объектами капитального строительства"
 - Git: [Hack_AI_MosStroy_2023](../../../Hack_AI_MosStroy_2023) 
 
@@ -20,7 +25,7 @@
 - Git: [Hack_Leaders_2023](../../../Hack_Leaders_2023) 
 
 ***
-### [Цифровой прорыв. Окружной хакатон ЦФО (трек: VK)](../../../Hack_AI_VK_2023) (финалисты)
+### [Цифровой прорыв. Окружной хакатон ЦФО (трек: VK) 2023](../../../Hack_AI_VK_2023) (финалисты)
 - Link: https://hacks-ai.ru/hackathons.html?eventId=969064 
 - Case: "Предсказание интенсивности взаимодействия между друзьями в социальной сети ВКонтакте"
 - Git: [Hack_AI_VK_2023](../../../Hack_AI_VK_2023) 
