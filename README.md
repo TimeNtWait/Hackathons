@@ -7,10 +7,16 @@
 - Git: [Hack_AI_Samolet_2023](../../../Hack_AI_Samolet_2023) 
 
 ***
+### [Цифровой прорыв. Окружной хакатон СФО 2023](../../../Hack_AI_WildNature_2023) (5 место)
+- Link: [[дштл](https://hacks-ai.ru/hackathons.html?eventId=969077)](https://hacks-ai.ru/hackathons.html?eventId=969077&caseEl=1026328&tab=1)
+- Case: Классификация снимков с фотоловушек
+- Git: [Hack_AI_WildNature_2023](../../../Hack_AI_WildNature_2023) 
+
+***
 ### [Цифровой прорыв. Окружной хакатон ДВФО 2023](../../../Hack_AI_RZHD_2023) (5 место)
 - Link: [https://hacks-ai.ru/hackathons.html?eventId=969091](https://hacks-ai.ru/hackathons.html?eventId=969080) 
 - Case: Сервис по анализу видеопотока и выявлению людей или посторонних предметов на ЖД путях
-- Git: [Hack_AI_Samolet_2023](../../../Hack_AI_RZHD_2023) 
+- Git: [Hack_AI_RZHD_2023](../../../Hack_AI_RZHD_2023) 
 
 ***
 ### [Цифровой прорыв. Окружной хакатон УФО 2023](../../../Hack_AI_MosStroy_2023) (6 место)
