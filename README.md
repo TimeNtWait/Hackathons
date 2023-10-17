@@ -25,6 +25,12 @@
 - Git: [Hack_AI_MosStroy_2023](../../../Hack_AI_MosStroy_2023) 
 
 ***
+### [Цифровой прорыв. Окружной хакатон ЮФО 2023](../../../Hack_AI_CentralBank_2023) 
+- Link: [https://hacks-ai.ru/hackathons.html?eventId=969082&caseEl=1032915&tab=1](https://hacks-ai.ru/hackathons.html?eventId=969082&caseEl=1032915&tab=1)
+- Case: Центральный банк РФ: "ML для оценки параметров экономических моделей"
+- Git: [Hack_AI_CentralBank_2023](../../../Hack_AI_CentralBank_2023)
+  
+***
 ### [Лидеры цифровой трансформации 2023](../../../Hack_Leaders_2023)
 - Link: https://leaders2023.innoagency.ru/ 
 - Case: OZON: "Разработать ML–модель, которая по названиям, атрибутам и картинкам сможет ответить на вопрос являются ли два товара одинаковыми."
