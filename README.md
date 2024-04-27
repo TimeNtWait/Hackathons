@@ -1,5 +1,10 @@
 # Хакатоны:
-
+***
+### [Data Fusion Contest 2024](../../../Hack_ODS_2024) (победитель - 1 место)
+- Link: [https://data-fusion.ru/contest.html](https://data-fusion.ru/contest.html)
+- Link: [https://ods.ai/competitions/data-fusion2024-churn](https://ods.ai/competitions/data-fusion2024-churn) 
+- Case: Предсказание оттока клиентов банка (ВТБ). 
+- Git: [Hack_ODS_2024](../../../Hack_ODS_2024)  
 ***
 ### [Цифровой прорыв. Всероссийский хакатон 2023](../../../Hack_AI_Samolet_2023) (победитель - 1 место)
 - Link: [https://hacks-ai.ru/hackathons.html?eventId=969091](https://hacks-ai.ru/hackathons.html?eventId=969091) 
