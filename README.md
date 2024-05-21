@@ -1,5 +1,10 @@
 # Хакатоны:
 ***
+### [Цифровой прорыв. Окружной Хакатон 2024](../../../Hack_AI_StroyClass_2024) (победитель - 1 место)
+- Link: [https://hacks-ai.ru/events/1077375](https://hacks-ai.ru/events/1077375) 
+- Case: Приведение номенклатуры участников рынка к официальному Классификатору Строительных Ресурсов. Компания "Аметист Кэпитал". 
+- Git: [Hack_AI_StroyClass_2024](../../../Hack_AI_StroyClass_2024) 
+***
 ### [Data Fusion Contest 2024](../../../Hack_ODS_2024) (победитель - 1 место)
 - Link: [https://data-fusion.ru/contest.html](https://data-fusion.ru/contest.html)
 - Link: [https://ods.ai/competitions/data-fusion2024-churn](https://ods.ai/competitions/data-fusion2024-churn) 
