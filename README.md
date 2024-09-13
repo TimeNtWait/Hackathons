@@ -1,10 +1,9 @@
 # Хакатоны:
 ***
-### [E-CUP Ozon Tech 2024 (4 место из 110 команд)](../../../Hack_OZON_2024) 
+### [E-CUP Ozon Tech 2024](../../../Hack_OZON_2024) (4 место из 110 команд)
 - Link: [https://codenrock.com/contests/e-cup-ozontech-challenge](https://codenrock.com/contests/e-cup-ozontech-challenge) 
 - Case: Матчинг товаров
 - Git: [Hack_OZON_2024](../../../Hack_OZON_2024) 
-
 ***
 ### [Цифровой прорыв. Окружной Хакатон 2024](../../../Hack_AI_StroyClass_2024) (победитель - 1 место)
 - Link: [https://hacks-ai.ru/events/1077375](https://hacks-ai.ru/events/1077375) 
