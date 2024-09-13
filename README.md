@@ -10,6 +10,11 @@
 - Case: Приведение номенклатуры участников рынка к официальному Классификатору Строительных Ресурсов. Компания "Аметист Кэпитал". 
 - Git: [Hack_AI_StroyClass_2024](../../../Hack_AI_StroyClass_2024) 
 ***
+### [Лидеры цифровой трансформации 2024](../../../Hack_Leaders_2022) (финалисты)
+- Link: [[https://vk.com/leaders_hack?offset=20&own=1](https://i.moscow/lct)](https://i.moscow/lct) 
+- Case: Предиктивная модель для рекомендации продуктов банка (Задача №12)
+- Git: [Hack_Leaders_2024](../../../Hack_Leaders_2024) 
+***
 ### [Data Fusion Contest 2024](../../../Hack_ODS_2024) (победитель - 1 место из 245 команд)
 - Link: [https://data-fusion.ru/contest.html](https://data-fusion.ru/contest.html)
 - Link: [https://ods.ai/competitions/data-fusion2024-churn](https://ods.ai/competitions/data-fusion2024-churn) 
