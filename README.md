@@ -21,6 +21,11 @@
 - Case: Предсказание оттока клиентов банка (ВТБ). 
 - Git: [Hack_ODS_2024](../../../Hack_ODS_2024)  
 ***
+### [Цифровой прорыв. Международный хакатон 2023](../../../Hack_AI_BurgerKing) (победитель - 1 место)
+- Link: [https://2023.hacks-ai.ru/hackathons.html?eventId=969092](https://2023.hacks-ai.ru/hackathons.html?eventId=969092&caseEl=1059645&tab=1)
+- Case: Победи отток клиентов в сфере быстрого питания. Компания "Burger King". 
+- Git: [Hack_AI_BurgerKing](../../../Hack_AI_BurgerKing) 
+***
 ### [Цифровой прорыв. Всероссийский хакатон 2023](../../../Hack_AI_Samolet_2023) (победитель - 1 место)
 - Link: [https://hacks-ai.ru/hackathons.html?eventId=969091](https://hacks-ai.ru/hackathons.html?eventId=969091) 
 - Case: Модель склонности клиента к приобретению машиноместа. Компания "Самолет". 
