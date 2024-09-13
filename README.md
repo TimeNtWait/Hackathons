@@ -11,7 +11,7 @@
 - Git: [Hack_AI_StroyClass_2024](../../../Hack_AI_StroyClass_2024) 
 ***
 ### [Лидеры цифровой трансформации 2024](../../../Hack_Leaders_2024) (финалисты)
-- Link: [[https://vk.com/leaders_hack?offset=20&own=1](https://i.moscow/lct)](https://i.moscow/lct) 
+- Link: [https://i.moscow/lct](https://i.moscow/lct) 
 - Case: Предиктивная модель для рекомендации продуктов банка (Задача №12)
 - Git: [Hack_Leaders_2024](../../../Hack_Leaders_2024) 
 ***
