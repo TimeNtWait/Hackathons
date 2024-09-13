@@ -1,11 +1,17 @@
 # Хакатоны:
 ***
+### [E-CUP Ozon Tech 2024 (4 место из 110 команд)](../../../Hack_OZON_2024) 
+- Link: [https://codenrock.com/contests/e-cup-ozontech-challenge](https://codenrock.com/contests/e-cup-ozontech-challenge) 
+- Case: Матчинг товаров
+- Git: [Hack_OZON_2024](../../../Hack_OZON_2024) 
+
+***
 ### [Цифровой прорыв. Окружной Хакатон 2024](../../../Hack_AI_StroyClass_2024) (победитель - 1 место)
 - Link: [https://hacks-ai.ru/events/1077375](https://hacks-ai.ru/events/1077375) 
 - Case: Приведение номенклатуры участников рынка к официальному Классификатору Строительных Ресурсов. Компания "Аметист Кэпитал". 
 - Git: [Hack_AI_StroyClass_2024](../../../Hack_AI_StroyClass_2024) 
 ***
-### [Data Fusion Contest 2024](../../../Hack_ODS_2024) (победитель - 1 место)
+### [Data Fusion Contest 2024](../../../Hack_ODS_2024) (победитель - 1 место из 245 команд)
 - Link: [https://data-fusion.ru/contest.html](https://data-fusion.ru/contest.html)
 - Link: [https://ods.ai/competitions/data-fusion2024-churn](https://ods.ai/competitions/data-fusion2024-churn) 
 - Case: Предсказание оттока клиентов банка (ВТБ). 
