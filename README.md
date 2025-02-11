@@ -97,6 +97,11 @@ https://leaders2022.innoagency.ru/
 - Stack: PyTorch, GoogleImageSearch, FastAPI, HTML, JavaScript  
 - Git: [Hack_Avanpost_2022](../../../Hack_Avanpost_2022)
 ***
+### [Идеатон X-MAS Hack 2022](../../../Hack_Ideaton_XMas_2022) (1 место)
+- Link: https://www.zavodit.ru/ru/calendar/event/21, https://xmas-hack.ru/
+- Case: «Реализация единого агрегатора показателей цифрового каталога для финтех компаний»
+- Git: [Hack_Ideaton_XMas_2022](../../../Hack_Ideaton_XMas_2022)
+***
 ### [ВТБ MORE Tech 4.0 2022](../../../Hack_VTB_MORE_Tech_4)
 - Link: https://moretech.vtb.ru/
 - Case: "DATA":
@@ -111,8 +116,3 @@ https://leaders2022.innoagency.ru/
     - При создании статистической математической модели оборудования в системе предиктивной аналитики требуется провести чистку исходных архивных данных для обучающей модель выборки.
 - Git: [Hack_TurboHack_2022](../../../Hack_TurboHack_2022)
 
-***
-### [Идеатон X-MAS Hack 2022](../../../Hack_Ideaton_XMas_2022) (1 место)
-- Link: https://www.zavodit.ru/ru/calendar/event/21, https://xmas-hack.ru/
-- Case: «Реализация единого агрегатора показателей цифрового каталога для финтех компаний»
-- Git: [Hack_Ideaton_XMas_2022](../../../Hack_Ideaton_XMas_2022)
