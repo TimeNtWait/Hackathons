@@ -10,7 +10,7 @@
 - Case: Контроль и управление изменениями в тендерных закупках. Компания "Атом". 
 - Git: [Hack_AI_Atom](../../../Hack_AI_Atom) 
 ***
-### [E-CUP Ozon Tech 2024](../../../Hack_OZON_2024) (4 место из 110 команд)
+### [E-CUP OZON Tech 2024](../../../Hack_OZON_2024) (4 место из 110 команд)
 - Link: [https://codenrock.com/contests/e-cup-ozontech-challenge](https://codenrock.com/contests/e-cup-ozontech-challenge) 
 - Case: Матчинг товаров
 - Git: [Hack_OZON_2024](../../../Hack_OZON_2024) 
