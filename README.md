@@ -2,7 +2,7 @@
 
 ***
 ### [Data Fusion 2025](../../../Hack_ODS_2025)
-- Link: [https://xn--2024-94d5ep.xn--p1ai/hackathon](https://ods.ai/competitions/data-fusion2025-labelcraft)
+- Link: [Data Fusion Contest 2025 - Задача 1 Label Craft](https://ods.ai/competitions/data-fusion2025-labelcraft)
 - Case: Предсказать категорию товаров на основе полученных данных о названиях товаров и их описаний.
 - Git: [Hack_ODS_2025](../../../Hack_ODS_2025) 
 ***
