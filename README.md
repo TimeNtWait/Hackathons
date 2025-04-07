@@ -1,4 +1,10 @@
 # Хакатоны:
+
+***
+### [Data Fusion 2025](../../../Hack_ODS_2025)
+- Link: [https://xn--2024-94d5ep.xn--p1ai/hackathon](https://ods.ai/competitions/data-fusion2025-labelcraft)
+- Case: Предсказать категорию товаров на основе полученных данных о названиях товаров и их описаний.
+- Git: [Hack_ODS_2025](../../../Hack_ODS_2025) 
 ***
 ### [Всероссийский Хакатон ФИЦ 2024](../../../Hack_FIC_2024) (победитель - 1 место)
 - Link: [фиц2024.рф/hackathon](https://xn--2024-94d5ep.xn--p1ai/hackathon)
